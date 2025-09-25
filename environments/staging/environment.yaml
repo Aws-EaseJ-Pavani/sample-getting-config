@@ -21,7 +21,7 @@ app:
     # The minimum number of instances. Must be at least 1. For
     # high-availability support, set this value to at least 3. The service
     # spreads instances among different availability zones.     
-    # Defaults to 1 if not set.
+    # Defaults to 1 if not set.   
     min: 1
     # The maximum number of instances. Cannot be less than the min value.   
     # Defaults to the min value if not set.  
